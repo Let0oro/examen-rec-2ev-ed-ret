@@ -18,7 +18,7 @@
         1. **Eliminan** todos los carácteres de espacio *\s* -> método `.strip`.
         2. **Miden** la longitud de la cadena final para ver si cumple la condición -> método `.count`.
 
-- [ ] **Pruebas finales** con `print` de los resultados.
+- [x] **Pruebas finales** con `print` de los resultados.
 
 :sunglasses:
 
@@ -28,6 +28,7 @@
 |:---|:---:|
 |master|"initial commit"|
 |develop|"add: basic input integer functionality"|
+|develop|"add: basic string input functionality"|
 
 
 :fire:
