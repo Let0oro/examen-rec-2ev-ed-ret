@@ -24,11 +24,14 @@
 
 ## Resumen de ramas y comentarios
 
-|rama|comentario|
-|:---|:---:|
-|master|"initial commit"|
-|develop|"add: basic input integer functionality"|
-|develop|"add: basic string input functionality"|
+|rama|comentario|comandos|
+|:---|:---:|---:|
+|master|"initial commit"|add - commit - push|
+|develop|"add: basic input integer functionality"|checkout -b - add - commit - push|
+|develop|"add: basic string input functionality"|add - commit - push|
+|develop|"add: basic test cases"|add - commit - push - status|
+|master|"merged from masteer"|checkout - merge - add - commit - push|
+|master|final commit|
 
 
 :fire:
